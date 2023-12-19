@@ -1,0 +1,12 @@
+{
+  "name": "memcache-ttl-js",
+  "version": "1.0.1",
+  "description": "in memory cache for javascript with ttl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
